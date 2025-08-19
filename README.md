@@ -1,1 +1,96 @@
-# site.portfolio
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Meu Portfólio</title>
+  </head>
+  <body bgcolor="#2e96a6" text="#333">
+    <center>
+      <table width="70%" border="0" cellpadding="30" cellspacing="0" bgcolor="white" style="border-radius: 10px;">
+        <tr>
+          <td align="center" bgcolor="#082b8a" colspan="2" style="border-radius: 10px 10px 0 0;">
+            <font color="white" face="Arial">
+              <h1 style="font-size: 3em;">BRENO SOARES DO NASCIMENTO</h1>
+              <p style="font-size: 1.5em;">Estudante de Front-End</p>
+              <a href="#sobre" style="text-decoration: none;"><font color="white">Sobre</font></a> |
+              <a href="#objetivos" style="text-decoration: none;"><font color="white">Objetivos</font></a> |
+              <a href="#contatos" style="text-decoration: none;"><font color="white">Contatos</font></a>
+            </font>
+          </td>
+        </tr>
+        <tr id="foto">
+          <td colspan="2" align="center">
+            <img src="foto.breno.jpeg" width="200" height="200" style="border-radius: 10px;" />
+          </td>
+        </tr>
+        <tr id="sobre">
+          <td colspan="2">
+            <table width="100%" cellpadding="10" cellspacing="0" bgcolor="#fafafa" bordercolor="#ddd" style="border-radius:30px; box-shadow: 0px 0px 5px grey; ">
+              <tr>
+                <td>
+                  <h2 style="text-align: center;"><font face="Arial"color="#444"> <b>QUEM SOU EU</b></font></h2>
+                  <font face="Arial">
+                    <p style="font-size: 20px;">
+                      Olá! me chamo Breno, sou estudante universitário de ciência da computação com foco em
+                      ciber segurança, porém recentemente o Front-End vem me atraindo muito fazendo com que 
+                    eu expanda meus horizontes da programação e procurando esse curso.Estou em busca de oportunidades para
+                     estágio na área. Gosto de colaborar, aprender coisas novas e
+                      transformar ideias em soluções simples e úteis.
+                    </p>
+                   
+                  </font>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center"><hr size="2" color="#ccc" style="border-radius: 5px;"></td>
+        </tr>
+        <tr id="objetivos">
+          <td colspan="2">
+            <table  width="100%" cellpadding="10" cellspacing="0" bgcolor="#fafafa" bordercolor="#ddd" style="border-radius: 30px; box-shadow: 0px 0px 5px grey; ">
+              <tr>
+                <td>
+                  <h2 style="text-align: center;"><font face="Arial" color="#444"><b>OBJETIVOS</b></font></h2>
+                  <font face="Arial">
+                    <p style="font-size: 20px;">
+                      Como estudante de Front-End, meu objetivo é aprender e dominar HTML, CSS e JavaScript,
+                       criando interfaces modernas, responsivas e acessíveis. Quero participar de projetos práticos,
+                       explorar frameworks como React e conquistar minha primeira oportunidade na área,
+                        sempre buscando evolução e aprendizado constante.
+                     
+                    </p>
+                  </font>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center"><hr size="2" color="#ccc" style="border-radius: 5px;"></td>
+        </tr>
+        <tr id="contatos">
+          <td colspan="2">
+            <table  width="100%" cellpadding="10" cellspacing="0" bgcolor="#fafafa" bordercolor="#ddd" style="border-radius: 30px;  box-shadow: 0px 0px 5px grey;">
+              <tr>
+                <td align="center">
+                  <h2 style="text-align: center;"><font face="Arial" color="#444"><b>MEUS LINKS</b></font></h2>                  
+                    <a href="https://www.linkedin.com/in/brenosoaresns"  style="text-decoration: none; font-size: 20px; font-family:'Segoe UI';"  target="_blank"><b>LinkedIn</b></a>&nbsp;&nbsp;
+                    <a href="mailto:brenosn9@hotmail.com"  style="text-decoration: none; font-size: 20px; font-family:'Segoe UI'" target="_blank"><b>E-mail</b></a>&nbsp;&nbsp;
+                    <a href="https://github.com/BrenoSN1" style="text-decoration: none; font-size: 20px; font-family:'Segoe UI'"; target="_blank"><b>GitHub</b></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center" bgcolor="#082b8a" style="border-radius: 0 0 10px 10px;">
+            <font color="white">© 2025 • Breno Soares do Nascimento.</font>
+          </td>
+        </tr>
+      </table>
+    </center>
+  </body>
+</html>
